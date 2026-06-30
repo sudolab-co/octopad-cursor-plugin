@@ -7,7 +7,10 @@
     "name": "Octopad",
     "email": "support@octopad.ai"
   },
+  "homepage": "https://octopad.ai",
+  "repository": "https://github.com/sudolab-co/octopad-cursor-plugin",
   "license": "MIT",
+  "logo": "assets/avatar.png",
   "keywords": [
     "mcp",
     "tasks",
@@ -17,6 +20,5 @@
     "ai",
     "back-office",
     "octopad"
-  ],
-  "logo": "assets/logo.svg"
+  ]
 }

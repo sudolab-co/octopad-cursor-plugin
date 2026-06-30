@@ -34,7 +34,7 @@ To connect manually instead, add to your Cursor `mcp.json`:
 plugins/octopad/
   .cursor-plugin/plugin.json       # plugin manifest
   mcp.json                         # remote MCP server definition
-  assets/logo.svg                  # marketplace logo
+  assets/avatar.png                # plugin logo (1:1 PNG with background plate)
 scripts/validate-template.mjs      # Cursor template validator
 ```
 

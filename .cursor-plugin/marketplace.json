@@ -5,8 +5,7 @@
     "email": "support@octopad.ai"
   },
   "metadata": {
-    "description": "Octopad — the back-office workspace for your team's AIs.",
-    "version": "0.1.0"
+    "description": "Octopad — the back-office workspace for your team's AIs."
   },
   "plugins": [
     {
