@@ -1,23 +1,18 @@
 {
-  "name": "cursor-plugin-starters",
+  "name": "octopad",
   "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+    "name": "Octopad",
+    "email": "support@octopad.ai"
   },
   "metadata": {
-    "description": "Starter marketplace template for Cursor plugins",
+    "description": "Octopad — the back-office workspace for your team's AIs.",
     "version": "0.1.0"
   },
   "plugins": [
     {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
+      "name": "octopad",
+      "source": "./plugins/octopad",
+      "description": "Connect your AI to Octopad: shared tasks, knowledge, and context over MCP."
     }
   ]
 }

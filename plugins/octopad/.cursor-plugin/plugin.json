@@ -1,0 +1,22 @@
+{
+  "name": "octopad",
+  "displayName": "Octopad",
+  "version": "0.1.0",
+  "description": "The back-office workspace for your team's AIs: shared tasks, knowledge, and context over MCP. Remote server — connect via OAuth, no local setup.",
+  "author": {
+    "name": "Octopad",
+    "email": "support@octopad.ai"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "tasks",
+    "project-management",
+    "knowledge",
+    "context",
+    "ai",
+    "back-office",
+    "octopad"
+  ],
+  "logo": "assets/logo.svg"
+}
